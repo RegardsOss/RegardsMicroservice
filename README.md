@@ -19,7 +19,7 @@ To create a new microservice you have to create a new maven project with the mic
 1. Clone the git rs-microservice repository<br>
 
   ```bash
-  git clone https://<user>@thor.si.c-s.fr/git/rs-microservice
+  git clone https://github.com/RegardsOss/RegardsMicroservice
   ```
 
 2. Compile and install the maven project<br>
