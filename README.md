@@ -16,7 +16,7 @@ Requirements for development:
 
 To create a new microservice you have to create a new maven project with the microservice-archetype. To do so :
 
-1. Clone the git rs-microservice repository<br>
+1. Clone the git RegardsMicroservice repository<br>
 
   ```bash
   git clone https://github.com/RegardsOss/RegardsMicroservice
