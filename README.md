@@ -25,7 +25,7 @@ To create a new microservice you have to create a new maven project with the mic
 2. Compile and install the maven project<br>
 
   ```bash
-  cd rs-microservice
+  cd RegardsMicroservice
   mvn clean install
   ```
 
@@ -50,7 +50,7 @@ To create a new microservice you have to create a new maven project with the mic
   -DarchetypeRepository=/path/to/git/repo/rs-microservice/microservice-archetype/target
   ```
 
-**NOTE** : You better create the microservice in another folder than rs-microservice. Otherwise if you delete your microservice you will need to clean the `rs-microservice/pom.xml`.
+**NOTE** : You better create the microservice in another folder than rs-microservice. Otherwise if you delete your microservice you will need to clean the `RegardsMicroservice/pom.xml`.
 
 By default the microservice archetype expose an exemple REST Controller on <http://localhost:3333>
 
